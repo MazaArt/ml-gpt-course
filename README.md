@@ -1,6 +1,6 @@
-# My GPT — Built from Scratch
+# My GPT
 
-Every file in this project is code I wrote and submitted while completing the NeetCode ML course.
+Code I wrote and submitted while completing the NeetCode ML course, focusing on creating GPT from scratch and foundational principles.
 
 ## Quick Start
 
